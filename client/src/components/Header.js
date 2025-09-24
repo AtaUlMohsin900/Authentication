@@ -9,7 +9,7 @@ const Header = () => {
     <>
       <header>
         <nav>
-          <h1>HP Cloud</h1>
+          <h1>Nissotec</h1>
           <div className="avatar">
             <Avatar style={{ background: "green" }}>H</Avatar>
           </div>
