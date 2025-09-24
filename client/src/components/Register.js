@@ -63,14 +63,14 @@ const Register = () => {
           </div>
           <form>
             <div className="form_input">
-              <label htmlFor="email">Email</label>
+              <label htmlFor="fname">Name</label>
               <input
                 type="email"
                 onChange={setVal}
                 value={inpval.email}
-                name="email"
-                id="email"
-                placeholder="Enter Your Email Address"
+                name="fname"
+                id="fname"
+                placeholder="Enter Your Name"
               />
             </div>
 
