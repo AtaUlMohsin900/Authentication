@@ -11,7 +11,7 @@ const Header = () => {
         <nav>
           <h1>Nissotec</h1>
           <div className="avatar">
-            <Avatar style={{ background: "green" }}>H</Avatar>
+            <Avatar style={{ background: "black" }}>K</Avatar>
           </div>
         </nav>
       </header>
