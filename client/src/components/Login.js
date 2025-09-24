@@ -39,7 +39,7 @@ const Login = () => {
       console.log("user input successfully done");
     }
   };
-};
+
 
 return (
   <>
@@ -87,5 +87,7 @@ return (
     </section>
   </>
 );
+};
 
 export default Login;
+
